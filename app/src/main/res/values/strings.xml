@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FriendsAppTDD</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUp">SignUp</string>
+    <string name="createAnAccount">Create an account</string>
+    <string name="passwordTogleVisibility">Password visibility</string>
+    <string name="timeline">Timeline</string>
+</resources>
